@@ -3,25 +3,20 @@
     private static void Main(string[] args)
     {
         Console.WriteLine(NbYear(1500, 5, 100, 5000));
-        //Console.WriteLine(NbYear(1500000, 2.5, 10000, 2000000));
-        //Console.WriteLine(NbYear(1500000, 0.25, 1000, 2000000));
+        Console.WriteLine(NbYear(1500000, 2.5, 10000, 2000000));
+        Console.WriteLine(NbYear(1500000, 0.25, 1000, 2000000));
     }
     public static int NbYear(int p0, double percent, int aug, int p)
     {
-        // your code
-        var years = 0;
-        var percentage = (double)percent / 100;
-        var growth = 0;
+        int years = 0;
+        double percentage = percent / 100;
 
-        while(growth < p)
+        while (p0 < p)
         {
-            if(growth < p)
-            {
-                growth = (int)(p0 + p0 * percentage + aug);
-                p0 = (int)growth;
-                years++;
-            }
+            p0 = (int)(p0 + p0 * percentage + aug);
+            years++;
         }
+
         return years;
     }
 }
