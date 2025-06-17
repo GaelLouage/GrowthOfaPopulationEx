@@ -1,0 +1,14 @@
+C:\Users\louag\source\repos\GrowthofaPopulationEx\GrowthofaPopulationEx\bin\Debug\net8.0\GrowthofaPopulationEx.exe
+C:\Users\louag\source\repos\GrowthofaPopulationEx\GrowthofaPopulationEx\bin\Debug\net8.0\GrowthofaPopulationEx.deps.json
+C:\Users\louag\source\repos\GrowthofaPopulationEx\GrowthofaPopulationEx\bin\Debug\net8.0\GrowthofaPopulationEx.runtimeconfig.json
+C:\Users\louag\source\repos\GrowthofaPopulationEx\GrowthofaPopulationEx\bin\Debug\net8.0\GrowthofaPopulationEx.dll
+C:\Users\louag\source\repos\GrowthofaPopulationEx\GrowthofaPopulationEx\bin\Debug\net8.0\GrowthofaPopulationEx.pdb
+C:\Users\louag\source\repos\GrowthofaPopulationEx\GrowthofaPopulationEx\obj\Debug\net8.0\GrowthofaPopulationEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louag\source\repos\GrowthofaPopulationEx\GrowthofaPopulationEx\obj\Debug\net8.0\GrowthofaPopulationEx.AssemblyInfoInputs.cache
+C:\Users\louag\source\repos\GrowthofaPopulationEx\GrowthofaPopulationEx\obj\Debug\net8.0\GrowthofaPopulationEx.AssemblyInfo.cs
+C:\Users\louag\source\repos\GrowthofaPopulationEx\GrowthofaPopulationEx\obj\Debug\net8.0\GrowthofaPopulationEx.csproj.CoreCompileInputs.cache
+C:\Users\louag\source\repos\GrowthofaPopulationEx\GrowthofaPopulationEx\obj\Debug\net8.0\GrowthofaPopulationEx.dll
+C:\Users\louag\source\repos\GrowthofaPopulationEx\GrowthofaPopulationEx\obj\Debug\net8.0\refint\GrowthofaPopulationEx.dll
+C:\Users\louag\source\repos\GrowthofaPopulationEx\GrowthofaPopulationEx\obj\Debug\net8.0\GrowthofaPopulationEx.pdb
+C:\Users\louag\source\repos\GrowthofaPopulationEx\GrowthofaPopulationEx\obj\Debug\net8.0\GrowthofaPopulationEx.genruntimeconfig.cache
+C:\Users\louag\source\repos\GrowthofaPopulationEx\GrowthofaPopulationEx\obj\Debug\net8.0\ref\GrowthofaPopulationEx.dll
